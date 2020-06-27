@@ -1,0 +1,12 @@
+{
+  "path": "/blog",
+  "title": "Blog",
+  "pageType": "list",
+  "listType": "post",
+  "hero": {
+    "image": "../images/LPC53.jpg",
+    "large": false,
+    "overlay": true,
+    "headline": "Our Latest Works"
+  }
+}

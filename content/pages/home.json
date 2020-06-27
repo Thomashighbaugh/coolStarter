@@ -1,0 +1,35 @@
+{
+  "path": "/",
+  "blocks": [
+    {
+      "_template": "ContentBlock",
+      "content": "## Welcome\n\n This is Community College Life, a blog for Living With Community College. The articles you will find on this site are primarily about life as a community college student. We get you, life can be hard trying to manage school, work, friends and family all while trying to make it past the first few years and make it to your dream school/job. \n\n"
+    },
+    {
+      "_template": "ContentBlock",
+      "content": "## Content Viewer Modes \n\n If you prefer a darker interface, or are viewing this at night and would like to not burn your eyes, just click that moon icon in the top right hand corner. "
+    }
+  ],
+  "hero": {
+    "headline": "Who Knew School Could Be So Hard?",
+    "textline": "A Blog For Living With Community College ",
+    "ctas": [
+      {
+        "label": "Read The Blog",
+        "link": "/blog",
+        "primary": true,
+        "arrow": true
+      },
+      {
+        "label": "Hit Us Up",
+        "link": "/contact",
+        "arrow": true,
+        "primary": true
+      }
+    ],
+    "image": "../images/LPC52.jpg",
+    "large": false
+  },
+  "displayTitle": false,
+  "title": "Home"
+}

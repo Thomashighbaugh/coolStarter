@@ -1,0 +1,31 @@
+{
+  "authors": [
+    {
+      "name": "Thomas Leon Highbaugh",
+      "id": "thomas-leon-highbaugh",
+      "email": "thighbaugh@zoho.com",
+      "link": "https://thomasleonhighbaugh.me"
+    },
+    {
+      "id": "nutthawat-panyangnoi",
+      "name": "Nutthawat Panyangnoi",
+      "email": "x@x.io",
+      "link": "mailto:x@x.io"
+    },
+    {
+      "id": "nina-alexis-villar",
+      "name": "Nina Alexis Villar",
+      "email": "x@x.io",
+      "link": "mailto:x@x.io"
+    },
+    {
+      "id": "sydney-moseley",
+      "name": "Sydney Moseley",
+      "email": "x@x.io",
+      "link": "mailto:x@x.io"
+    }
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/authors.json"
+  }
+}

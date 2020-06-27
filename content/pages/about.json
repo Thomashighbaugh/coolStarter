@@ -1,0 +1,17 @@
+{
+  "title": "About",
+  "path": "/about",
+  "blocks": [
+    {
+      "_template": "TitleBlock",
+      "title": "",
+      "underline": true,
+      "content": ""
+    },
+    {
+      "content": "## What is Community College Life?\n\nCommunity College Life was created to provide a space for students nationwide to come together and share the experience of attending community college. Community college is not your typical “college experience”. Due to its typical brief duration of about 2 years, the average community college student is less focused on their social life and more focused on moving on to the next step as soon as possible. Our blog bridges this gap by preparing community college students for how to succeed at a community college, while making space for camaraderie between students to grow. Community College Life also educates students on resources for transfer and community college relevant news. \n\n If you’d like to get involved feel free to contact us!",
+      "_template": "ContentBlock"
+    }
+  ],
+  "displayTitle": true
+}
