@@ -1,7 +1,7 @@
 {
-  "name": "cool_starter",
+  "name": "G5",
   "private": true,
-  "description": "A blog starter for Gatsby with TinaCMS",
+  "description": "The submission of group 5",
   "version": "0.1.0",
   "author": "Thomas Leon Highbaugh <thighbaugh@zoho.com>",
   "dependencies": {
@@ -11,11 +11,12 @@
     "focus-visible": "^5.0.2",
     "gatsby": "^2.20.13",
     "gatsby-background-image": "^1.0.1",
-    "gatsby-cli": "^2.12.66",
+    "gatsby-cli": "^2.12.48",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-layout": "^1.1.13",
     "gatsby-plugin-manifest": "^2.2.23",
-    "gatsby-plugin-mdx": "^1.2.29",
+    "gatsby-plugin-mdx": "^1.0.53",
+    "gatsby-plugin-offline": "^3.0.16",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-robots-txt": "^1.5.0",
     "gatsby-plugin-sharp": "^2.2.31",
@@ -25,7 +26,7 @@
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-copy-linked-files": "^2.1.28",
     "gatsby-remark-images": "^3.1.28",
-    "gatsby-remark-prismjs": "^3.3.20",
+    "gatsby-remark-prismjs": "^3.5.10",
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^2.3.3",
     "gatsby-tinacms-git": "^0.4.11",
@@ -71,6 +72,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thomashighbaugh"
+    "url": "https://github.com/tinacms/tina-starter-grande"
   }
 }
